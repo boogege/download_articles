@@ -31,9 +31,6 @@ from typing import Optional, List
 STYLE_ARTICLE_URLS = [
     # "https://mp.weixin.qq.com/s/xxxxxxxx",
     # "https://mp.weixin.qq.com/s/yyyyyyyy",
-    # "https://mp.weixin.qq.com/s/u9rj0mxH3BRSRyCCIFEeIw",
-    # "https://mp.weixin.qq.com/s/l0fPJSW7Ryy1pBebzQUaKw",
-    "https://mp.weixin.qq.com/s/v6_eV-3hzota7_-h_tZrVA?scene=1&click_id=1846711081"
 ]
 
 # 输出目录：脚本所在目录

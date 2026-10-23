@@ -1,0 +1,12 @@
+# 缓存文件夹
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 公众号文章导出目录（所有标题文件夹）
+*/
+
+# 其他
+.DS_Store
+Thumbs.db
